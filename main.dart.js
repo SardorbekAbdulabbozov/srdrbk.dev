@@ -30420,7 +30420,7 @@ $.a3.toString
 s=2
 return A.o(A.amP(A.bdL()),$async$wV)
 case 2:s=3
-return A.o(A.aDB("",""),$async$wV)
+return A.o(A.aDB("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im94cmJzeHlnaHBtZXRwdG9nYml1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTgzNzQ3OTgsImV4cCI6MjA3Mzk1MDc5OH0.EBbGZW84y6FbLJqCu42tGveglDRWS_3rVzJYWIBMu7A","https://oxrbsxyghpmetptogbiu.supabase.co"),$async$wV)
 case 3:s=4
 return A.o(A.akI(),$async$wV)
 case 4:s=5
